@@ -16,6 +16,8 @@ public class GetaPITest extends TestBase{
 	String basurl ; 
 	String servicurl; 
 	String url;
+	
+	
 	RestClient restclient;
 	
 	@Test	
